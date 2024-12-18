@@ -1,0 +1,15 @@
+
+/* css files */ 
+@import "swiper/css/bundle";  
+@import "react-modal-video/css/modal-video.css";
+
+
+@import "../../public/assets/css/fontawesome/css/all.min.css";
+@import "../../public/assets/css/thm-icons/style.css";
+@import "../../public/assets/css/nice-select/nice-select.css";
+@import "bootstrap/dist/css/bootstrap.css";
+@import "../../public/assets/css/color-1.css";
+@import "../../public/assets/css/dark.css";
+@import "../../public/assets/css/style-2.css";
+@import "../../public/assets/css/style.css";
+@import "../../public/assets/css/responsive.css";
