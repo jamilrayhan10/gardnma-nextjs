@@ -10822,7 +10822,7 @@ Projects Three
 }
 
 .projects-three__inner .sec-title-three__title {
-  color: #ffffff
+  color: #ffffff !important;
 }
 
 .projects-three__single {

@@ -1,5 +1,6 @@
 
 import MobileMenu from '@/layouts/headers/MobileMenu';
+import Link from 'next/link';
 import React from 'react';
 
 const OffCanvas = ({open, setOpen} : any) => {
@@ -12,9 +13,9 @@ const OffCanvas = ({open, setOpen} : any) => {
                 <i className="icon-plus"></i>
             </span>
             <div className="logo-box">
-                <a href="index.html" aria-label="logo image">
+                <Link href="/" aria-label="logo image">
                     <img src="assets/images/resources/mobile-nav-logo.png" alt="" />
-                </a>
+                </Link>
             </div>
             <div className="mobile-nav__container">
               <MobileMenu />
