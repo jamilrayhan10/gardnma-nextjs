@@ -69,9 +69,9 @@ const FooterOne = () => {
                                             </div>
                                             <div className="footer-one__right-single-links">
                                                 <ul className="footer-one__right-single-list">
-                                                    <li><Link href="about">About Us</Link></li>
-                                                    <li><Link href="team">Our Team</Link></li>
-                                                    <li><Link href="contact">Contact Us</Link></li>
+                                                    <li><Link href="/about">About Us</Link></li>
+                                                    <li><Link href="/team">Our Team</Link></li>
+                                                    <li><Link href="/contact">Contact Us</Link></li>
                                                     <li><a href="#">Our History</a></li>
                                                     <li><a href="#">Testimonials</a></li>
                                                 </ul>

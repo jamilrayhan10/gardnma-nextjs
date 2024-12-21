@@ -8,8 +8,7 @@ const ProjectHomeThree = () => {
       <section className="projects-three">
             <div className="projects-three__bg"
                 style={{background: `url(/assets/images/backgrounds/projects-v3-bg.jpg)`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}></div>
-            <div className="projects-three__bg-two"
-                style={{background: `url(/assets/images/project/projects-v3-img5.jpg)`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}>
+            <div className="projects-three__bg-two" style={{background: `url(/assets/images/project/projects-v3-img5.jpg)`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}>
 
                 <ul className="projects-three__bg-two-content">
                     <li className="text-center">
